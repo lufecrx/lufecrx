@@ -14,17 +14,9 @@ Hello! My name is Luiz Felipe, I'm a fullstack developer passionate about creati
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Featured Projects
-- [Minefield](https://github.com/lufecrx/campo-minado-swing): It's a pretty simple game. Open all the boxes without detonating bombs to finish the game. If you believe there is a bomb in the box, put a flag there.
-- [Tic-tac-toe](https://github.com/lufecrx/jogo-da-velha): Is a puzzle game for two players, named "X" and "O", who take turns marking spaces in a 3×3 grid.
-- [Calculator](https://github.com/lufecrx/calculadora-simples): Simple calculator that performs basic mathematical operations.
-- [WikipediaQuery](https://github.com/lufecrx/wikipedia-query): Application that consumes the Wikipedia API to perform queries.
-- [AngularForm](https://github.com/lufecrx/angular-form): Simple form with data entry validations.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=red&color:FFF)](https://www.linkedin.com/in/luizfelipecg/)
